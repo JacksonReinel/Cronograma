@@ -38,10 +38,10 @@ object FormBase: TFormBase
     object DBNavigator2: TDBNavigator
       Left = 324
       Top = 15
-      Width = 186
+      Width = 185
       Height = 18
       DataSource = dtsDados
-      VisibleButtons = [nbInsert, nbDelete, nbEdit, nbPost, nbCancel, nbRefresh]
+      VisibleButtons = [nbInsert, nbDelete, nbPost, nbCancel, nbRefresh]
       TabOrder = 1
     end
   end
